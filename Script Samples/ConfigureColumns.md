@@ -1,13 +1,13 @@
 ---
-title: Configuring Columns
-slug: configuring-columns
-tags: Configuration, scripting
+title: Brendan Configuring Columns
+slug: configuring-columns-brendan
+tags: Brendan, Configuration, scripting
 publish: true
 ---
 
 <!-- http://fiddler2.com/Fiddler/help/configurecolumns.asp -->
 
-#Configuring Columns
+#Configuring Columns Change by Brendan
 
 ##Column Reordering, Resizing, and Sorting
 You can **reorder** the columns by dragging a column header to the left or the right. You can **resize** a given column by dragging the edge of a column header. You can **sort** the Session List based on the values in a particular column by clicking on that column's header.
