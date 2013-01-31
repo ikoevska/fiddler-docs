@@ -1,5 +1,5 @@
 ---
-title: Brendan Configuring Columns
+title: Configuring Columns
 slug: configuring-columns-brendan
 tags: Brendan, Configuration, scripting
 publish: true
